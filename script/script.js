@@ -1,4 +1,11 @@
 const aKey = document.getElementById("aKey");
+const sKey = document.getElementById("sKey");
+const dKey = document.getElementById("dKey");
+const fKey = document.getElementById("fKey");
+const gKey = document.getElementById("gKey");
+const hKey = document.getElementById("hKey");
+const jKey = document.getElementById("jKey");
+const kKey = document.getElementById("kKey");
 const lKey = document.getElementById("lKey");
 
 
