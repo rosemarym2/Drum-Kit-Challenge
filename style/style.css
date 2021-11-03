@@ -4,8 +4,6 @@
   justify-content: center;
   flex-direction: row;
   flex-wrap: wrap;
-  background-color: aquamarine;
-  border: 1px solid black;
   height: 25%;
   width: 100%;
   font-family: "Montserrat", sans-serif;
@@ -24,8 +22,29 @@ p {
   align-items: center;
   box-shadow: 0 2px 2px 4px lightseagreen;
   text-align: center;
+  background-color: aquamarine;
+  border: 1px solid black;
 }
 
 p:hover {
   background-color: white;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  font-family: "Montserrat", sans-serif;
+  font-size: 36px;
+}
+
+.drumKit {
+  min-width: 100vw;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: 25%;
+  width: 100%;
 }
